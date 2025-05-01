@@ -1,6 +1,6 @@
 fx_version 'cerulean'
 game 'gta5'
-author 'AshiroDev'
+author 'GhostDev'
 version "1.0"
 
 files {
